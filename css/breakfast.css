@@ -1,0 +1,28 @@
+img {
+    width: 400px;
+    height: auto;
+    display: block;
+    border-radius: 5px;
+}
+
+.chia_seed_pudding {
+    position: fixed;
+    left: 550px;
+    top: 160px;
+}
+
+.quiona_pancakes {
+    position: fixed;
+    left: 1000px;
+    top: 160px;
+}
+
+.ginger_green_smoothie {
+    position: fixed;
+    top: 160px;
+}
+
+nav {
+    padding: 100px;
+    margin-top: 100px;
+}
